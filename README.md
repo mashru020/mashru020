@@ -28,7 +28,7 @@ I am currently working at ERA InfoTech Limited as a DevOps Engineer.
 
 <a href="https://www.linkedin.com/in/mashru020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mashru020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Faceboot" height="30" width="40" /></a>
-<a href="https://cssbattle.dev/player/mashru020" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2022/03/15/06/15/code-7069550_1280.png" alt="CSS Battle" height="40" width="25" /></a>
+<a href="https://cssbattle.dev/player/mashru020" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2022/03/15/06/15/code-7069550_1280.png" alt="CSS Battle" height="25" width="40" /></a>
 <a href="https://www.hackerrank.com/mashru020" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 
 </p>
