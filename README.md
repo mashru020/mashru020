@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I am currently working at ERA InfoTech Limited as a DevOps Engineer.
 
 <h3 align="left">Contact Info</h3>
-☎ Phone: +01534949969 (Whatsapp), +01534949969
+☎ Phone: +01534949969 (Whatsapp)
 
 📨 Email: mashrurrahman16@gmail.com
 <p align="left">
@@ -33,13 +33,13 @@ I am currently working at ERA InfoTech Limited as a DevOps Engineer.
 ## ⚡ tech-stack
 ```json
 {
-  "language"         : ["Javascript", "Python", "Java"],
-  "backend"          : [ "NodeJs", "Yii2"],
-  "frontend"         : [ "ReactJs", "NextJs"],
-  "database"         : ["PostgreSql","MySQL", "MongoDB"],
-  "mobile"           : ["React-native"],
-  "containerization" : ["Docker"],
-  "Architecture"     : ["Monolithic", "Microservices"]
+  "Language"         : ["Javascript", "C", "C++", "Bash"],
+  "Server"           : [ "Nginx", "Apache-Tomcat", "JasperReports Server"],
+  "Operating System" : ["Linux"],
+  "Containerization" : ["Docker"],
+  "CI/CD"            : ["Jenkins"],
+  "Frontend"         : [ "ReactJs", "HTML5", "CSS3", "Bootstrap", "JQuery"],
+  "Database"         : ["PostgreSql","MySQL"],
 }
 ```
 
