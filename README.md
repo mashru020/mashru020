@@ -39,10 +39,11 @@ I am currently working at ERA InfoTech Limited as a DevOps Engineer.
   "Language"         : ["Javascript", "C", "C++", "Bash"],
   "Server"           : [ "Nginx", "Apache-Tomcat", "JasperReports Server"],
   "Operating System" : ["Linux"],
-  "Containerization" : ["Docker"],
+  "Containerization" : ["Docker", "Kubernetes"],
   "CI/CD"            : ["Jenkins"],
   "Frontend"         : [ "ReactJs", "HTML5", "CSS3", "Bootstrap", "JQuery"],
   "Database"         : ["PostgreSql","MySQL"],
+  "Cloud Platform"   : ["Oracle Cloud", "AWS"],
 }
 ```
 
